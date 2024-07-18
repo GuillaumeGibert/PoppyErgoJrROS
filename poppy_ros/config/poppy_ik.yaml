@@ -1,0 +1,6 @@
+%YAML:1.0
+---
+maxNbIterations: 1000
+pController: 0.5
+rankThreshold: 0.2
+distanceThreshold: 0.01

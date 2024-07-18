@@ -1,0 +1,10 @@
+%YAML:1.0
+---
+dhThetaParams: [ 0., 0. ]
+dhDParams: [ 0., 0. ]
+dhAParams: [ 2., 1. ]
+dhAlphaParams: [ 0., 0. ]
+jointType: [ 1, 1 ]
+nbJoints: 2
+jointOffset: [ 0., 0. ]
+qiValues: [ 10., 50. ]
